@@ -8,4 +8,10 @@ public class B
 			System.out.println("B.m1()");
 			
 		}
+
+		public void m2()
+		{
+			System.out.println("B.m1()-TL Added");
+			
+		}
 }
