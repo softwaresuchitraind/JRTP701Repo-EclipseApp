@@ -5,11 +5,10 @@ package com.sukla.Main;
  */
 public class App {
 
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-		System.out.println("App.main()-TL");
-		   System.out.println("DEV code123");
-
-	}
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        System.out.println("DEV code");
+        System.out.println("DEV code123");
+    }
 
 }
