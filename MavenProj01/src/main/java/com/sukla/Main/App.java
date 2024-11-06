@@ -10,9 +10,18 @@ public class App {
         System.out.println("DEV code");
         System.out.println("DEV code123");
     }
+
     public String reverse(String name)
     {
     	StringBuffer sb = new StringBuffer(name);
     	return sb.reverse().toString();
     }
+
+    public int  findNameLength()
+    {
+    	System.out.println("App.findNameLength()");
+    	return 1;
+    }
+
+
 }
